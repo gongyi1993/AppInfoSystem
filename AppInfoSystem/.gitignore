@@ -1,2 +1,4 @@
 .externalToolBuilders/
 .settings
+*.jar
+*.class
